@@ -1,4 +1,5 @@
 # Hotel management
+Nguyễn Hương Giang - 18001120 - Day7 - Môn Công nghệ phần mềm
 ### Business goals
 Xây dựng một phần mềm quản lý khách sạn giúp quản lý thông tin khách sạn thuận tiện trong việc khinh doanh
 ### Business objectives
